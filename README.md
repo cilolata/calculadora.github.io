@@ -1,2 +1,2 @@
 # calculadora.github.io
-Calculadora feita com jquery
+A simple calculator developed with jquery
